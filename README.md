@@ -1,8 +1,4 @@
 # action-repo
-#hello testing webhook
-#update
-########
-# action-repo
 
 This repository is used to trigger GitHub webhook events — Push, Pull Request, and Merge — to a connected Flask endpoint.
 
